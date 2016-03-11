@@ -15,6 +15,9 @@
 
 - P7："为了更好地运用越来越大的屏幕控件" 修改为 "为了更好地运用越来越大的 屏幕空间";   
 - P24: 第一行<providerandroid:name=..../> 修改为 <provider android:name=.../>， 在provider后添加了一个空格;
+- P29: 第三行 "//有视图缓存，复用属兔" 修改为  "//有视图缓存，复用视图";
+- P38: 第二段第二行，“在measureDrawable函数中，我们通过在xml文件中指定。资源id对应的Drawable得到图片的高度和高度...” 修改为  "在measureDrawable函数中，我们通过在xml文件中指定资源id对应的Drawable得到图片的宽度和高度...“ ;
+- P38：倒数第二行”我们都知道Android的视图数..." 修改为 "我们都知道Android的视图树..." ;
 - P68 ： Lopper 修改为 Looper ;    
 - P69 : PrePare 修改为 prepare ;    
 
