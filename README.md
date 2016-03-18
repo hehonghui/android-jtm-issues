@@ -18,6 +18,10 @@
 - P29: 第三行 "//有视图缓存，复用属兔" 修改为  "//有视图缓存，复用视图";
 - P38: 第二段第二行，“在measureDrawable函数中，我们通过在xml文件中指定。资源id对应的Drawable得到图片的高度和高度...” 修改为  "在measureDrawable函数中，我们通过在xml文件中指定资源id对应的Drawable得到图片的宽度和高度...“ ;
 - P38：倒数第二行”我们都知道Android的视图数..." 修改为 "我们都知道Android的视图树..." ;
+- P58:文字倒数第二行：“自动化” 修改为  "子动画";
+- P60:第二段第三行：”android:fromYScale" 修改为 "android:fromYDelta";
+- P65:文字第五段第三行：“逐渐增大统一时间段” 修改为 "逐渐增大同一时间段“;
+- P65:文字倒数第一段第四行：“它与t为300毫秒的x差值为5。” 修改为 “它与t为200毫秒的x差值为5。”
 - P68 ： Lopper 修改为 Looper ;    
-- P69 : PrePare 修改为 prepare ;    
+- P69 : PrePare 修改为 prepare ; 
 
