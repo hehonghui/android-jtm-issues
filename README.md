@@ -24,4 +24,5 @@
 - P65:文字倒数第一段第四行：“它与t为300毫秒的x差值为5。” 修改为 “它与t为200毫秒的x差值为5。”
 - P68 ： Lopper 修改为 Looper ;    
 - P69 : PrePare 修改为 prepare ; 
+- P75 : "当在一个Synchronized块中调用Sleep()方法是" 修改为 "当在一个Synchronized块中调用Sleep()方法时"
 - P234页的 7.1.6标题应该为“空格分隔”；
